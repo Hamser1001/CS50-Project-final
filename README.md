@@ -50,12 +50,12 @@ The invoice includes company and client info, a detailed product list, totals, t
 
 ## File Structure
 
-InvoiceCraft/
+`InvoiceCraft/
 ├── project.py 
 ├── test_project.py
 ├── requirements.txt 
 ├── stamp.png
-└── items.csv 
+└── items.csv `
 
 - project.py -- The main program file containing the application logic.
 - test_project.py -- Unit tests for your functions.
