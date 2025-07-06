@@ -48,14 +48,7 @@ The invoice includes company and client info, a detailed product list, totals, t
 3. Run the project by executing: `python project.py`
 
 
-## File Structure
-
-`InvoiceCraft/
-├── project.py 
-├── test_project.py
-├── requirements.txt 
-├── stamp.png
-└── items.csv `
+<pre> ## File Structure ``` InvoiceCraft/ ├── project.py ├── test_project.py ├── requirements.txt ├── stamp.png └── items.csv ``` </pre>
 
 - project.py -- The main program file containing the application logic.
 - test_project.py -- Unit tests for your functions.
