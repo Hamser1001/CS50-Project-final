@@ -61,7 +61,7 @@ InvoiceCraft/
 
 
 - project.py -- The main program file containing the application logic.
-- test_project.py -- Unit tests for your functions.
+- test_project.py -- Unit tests for the functions.
 - requirements.txt -- List of Python libraries required to run the project.
 - stamp.png -- The stamp image used on the PDF invoice.
 - items.csv -- Temporary CSV file used to store item data (deleted automatically after PDF  - - - generation).
